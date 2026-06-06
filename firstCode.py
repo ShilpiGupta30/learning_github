@@ -1,4 +1,14 @@
-# this is first sample code
+def plus(a, b):
+    return a + b
 
 
-print("new code")
+def minus(a, b):
+    return a - b
+
+
+def multiplication(a, b):
+    return a * b
+
+
+def division(a, b):
+    return a / b
